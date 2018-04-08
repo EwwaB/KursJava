@@ -14,7 +14,7 @@ public class Polowanie {
         System.out.println(filemon.zlapMysz(czarna));
         System.out.println(filemon.zlapMysz(szara));
 
-
+// komentarz
 
 
 
